@@ -1,2 +1,2 @@
 # learning-js
-started js
+Exploring JS !!
